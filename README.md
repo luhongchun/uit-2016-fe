@@ -4,44 +4,52 @@ uit-2016-前端培训
 碎碎念：
 <p>为什么总有人看不上前端，而如今......</p>
 <HR style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="80%" color=#987cb9 SIZE=3>
-学习网站：
-
-学习布局 http://zh.learnlayout.com/
-html-css http://learn.shayhowe.com/html-css/
-在线交互学习 http://www.codecademy.com/
+<p>学习网站:</p>
+<ul>
+<li>学习布局 http://zh.learnlayout.com/<li>
+<li>html-css http://learn.shayhowe.com/html-css/<li>
+<li>在线交互学习 http://www.codecademy.com/<li>
+</ul>
 参考文档：
-
-w3school http://www.w3school.com.cn/
-MDN https://developer.mozilla.org/zh-CN/
+<ul>
+<li>w3school http://www.w3school.com.cn/<li>
+<li>MDN https://developer.mozilla.org/zh-CN/<li>
+</ul>
 <HR style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="80%" color=#987cb9 SIZE=3>
 阅读书目表：
 
 前期：
-
-< Head First HTML与CSS、 XHTML >
-< Head First HTML与CSS >
+<ul>
+<li>< Head First HTML与CSS、 XHTML ><li>
+<li>< Head First HTML与CSS ><li>
+</ul>
 中期：
-
-< JavaScript高级程序设计 >
-< JavaScript DOM编程艺术 >
-< 锋利的jQuery >
+<ul>
+<li>< JavaScript高级程序设计 ><li>
+<li>< JavaScript DOM编程艺术 ><li>
+<li>< 锋利的jQuery ><li>
+</ul>
 后期：
-
-< JavaScript语言精粹 >
-< JavaScript 权威指南 >
+<ul>
+<li>< JavaScript语言精粹 ><li>
+<li>< JavaScript 权威指南 ><li>
+</ul>
 <HR style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="80%" color=#987cb9 SIZE=3>
 工具：
-
-SublimeText http://www.sublimetext.com/
-FireFox http://www.firefox.com.cn/
-Chrome http://www.google.com/chrome/
+<ul>
+<li>SublimeText http://www.sublimetext.com/<li>
+<li>FireFox http://www.firefox.com.cn/<li>
+<li>Chrome http://www.google.com/chrome/<li>
+</ul>
 其他(中后期看)：
-
+<ul>
 语言
-CoffeeScript http://coffeescript.org/
-Sass http://sass-lang.com/
+<li>CoffeeScript http://coffeescript.org/<li>
+<li>Sass http://sass-lang.com/<li>
+</ul>
 工具
-Grunt http://gruntjs.com/
-Gulp http://gulpjs.com/
+<ul>
+<li>Grunt http://gruntjs.com/<li>
+<li>Gulp http://gulpjs.com/<li>
+</ul>
 参考书签： https://github.com/ArtemisTeam/frontend-dev-bookmarks
-
