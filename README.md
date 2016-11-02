@@ -17,23 +17,16 @@ uit-2016-前端培训
 </ul>
 <HR style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="80%" color=#987cb9 SIZE=3>
 阅读书目表：
-
 前期：
-<ul>
-<li>< Head First HTML与CSS、 XHTML ><li>
+<li>< Head First HTML与CSS、 XHTML><li>
 <li>< Head First HTML与CSS ><li>
-</ul>
 中期：
-<ul>
 <li>< JavaScript高级程序设计 ><li>
 <li>< JavaScript DOM编程艺术 ><li>
 <li>< 锋利的jQuery ><li>
-</ul>
 后期：
-<ul>
 <li>< JavaScript语言精粹 ><li>
 <li>< JavaScript 权威指南 ><li>
-</ul>
 <HR style="FILTER: alpha(opacity=100,finishopacity=0,style=3)" width="80%" color=#987cb9 SIZE=3>
 工具：
 <ul>
